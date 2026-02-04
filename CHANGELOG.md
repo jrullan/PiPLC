@@ -4,6 +4,13 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.2 - 2026-02-04
+
+- Explorer HAT Pro I/O provider support.
+- New instructions: BSL, BSR, N2B, plus expanded word-address support.
+- Fixed force simulation, branch OTE execution, and cursor positioning.
+
+
 ## v0.1.1 - 2026-02-04
 
 - Windows installer now launches without an extra debug terminal (Release build).
