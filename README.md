@@ -1,3 +1,5 @@
+![PiPLC UI](assets/ui-screenshot.png)
+
 # PiPLC - Raspberry Pi Soft-PLC
 
 A full-featured software PLC for Raspberry Pi and single-board computers, featuring a Qt-based ladder logic editor with drag-and-drop programming, virtual I/O simulation, and GPIO integration.
