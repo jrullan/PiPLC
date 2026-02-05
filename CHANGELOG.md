@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.5 - 2026-02-05
+
+- HMI Simulator with interactive operator panel editor and runtime.
+- Standalone PiPLC-HMI application using shared library architecture.
+
+
 ## v0.1.4 - 2026-02-04
 
 - Improved validation UX and power flow readability.
