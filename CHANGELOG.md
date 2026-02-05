@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.4 - 2026-02-04
+
+- Improved validation UX and power flow readability.
+- Default layout adjustments for a better first-run experience.
+
+
 ## v0.1.3 - 2026-02-04
 
 - Optimized Explorer HAT Pro ADC scanning.
