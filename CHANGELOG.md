@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.3 - 2026-02-04
+
+- Optimized Explorer HAT Pro ADC scanning.
+- Centralized version handling for consistency.
+
+
 ## v0.1.2 - 2026-02-04
 
 - Explorer HAT Pro I/O provider support.
