@@ -4,6 +4,14 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.9 - 2026-02-06
+
+- Remote context becomes active when opened.
+- HMI input elements initialize with PLC values at Runtime start.
+- HMI rename (formerly HMI Simulator) across the UI.
+- HMI Slider integer write bug fixed for N: region.
+
+
 ## v0.1.5 - 2026-02-05
 
 - HMI Simulator with interactive operator panel editor and runtime.
