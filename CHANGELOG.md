@@ -4,6 +4,14 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.14 - 2026-02-06
+
+- Tools toolbar icons and HMI UI/icon polish.
+- Fixed HMI analog range persistence and icon loading.
+- Decorator glyph PRE live display now updates at runtime.
+- MOV timer/counter preset handling fix, plus test fixes.
+
+
 ## v0.1.13 - 2026-02-06
 
 - HMI toolbar: New/Open/Save buttons and refreshed icon set.
