@@ -4,6 +4,11 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.18 - 2026-02-07
+
+- HMI auto-switches to Runtime mode when auto-connecting to a running engine.
+
+
 ## v0.1.17 - 2026-02-07
 
 - Windows: double-clicking .plcproj now opens the project in PiPLC.
