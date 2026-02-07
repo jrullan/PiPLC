@@ -11,6 +11,8 @@ A full-featured software PLC for Raspberry Pi and single-board computers, featur
 - Deploy to Raspberry Pi as a headless engine and connect remotely from the editor
 - Map GPIO pins to PLC variables for real hardware control
 - Run multiple independent PLC contexts with signal routing between them
+- Design HMI screens with interactive controls and runtime monitoring
+- Run a standalone HMI application that connects to remote engines
 
 ## Highlights
 
@@ -20,6 +22,9 @@ A full-featured software PLC for Raspberry Pi and single-board computers, featur
 - Remote Deployment with a headless engine server and editor connection
 - Virtual I/O Simulation panel for testing without hardware
 - GPIO Integration using libgpiod with configurable pin mapping
+- Explorer HAT Pro provider with fixed board mapping for I/O, touch, and analog
+- HMI editor with simulator/runtime modes and rich widget palette
+- Standalone PiPLC-HMI app for operator panels and remote visualization
 - Cross-Platform support for Windows, Linux x64, and ARM64 (Raspberry Pi)
 
 ## Getting Started (End Users)
@@ -29,6 +34,7 @@ A full-featured software PLC for Raspberry Pi and single-board computers, featur
 3. Create a new project and build your first ladder program.
 4. Use the simulation panel to toggle inputs and verify outputs.
 5. When ready, deploy the engine to your Raspberry Pi and connect remotely.
+6. Optionally build an HMI panel and run it in the embedded or standalone HMI app.
 
 ## Typical Workflow
 
