@@ -4,6 +4,11 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.17 - 2026-02-07
+
+- Windows: double-clicking .plcproj now opens the project in PiPLC.
+
+
 ## v0.1.15 - 2026-02-07
 
 - Tools toolbar icons and HMI UI polish.
