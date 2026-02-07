@@ -4,6 +4,14 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.13 - 2026-02-06
+
+- HMI toolbar: New/Open/Save buttons and refreshed icon set.
+- HMI element palette icons (13 SVGs) and toolbar action icons.
+- Fixed HMI icon loading, grid toggle, and unsaved-change prompts.
+- Properties panel hides controls when no element is selected.
+
+
 ## v0.1.9 - 2026-02-06
 
 - Remote context becomes active when opened.
