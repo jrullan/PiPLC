@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.21 - 2026-02-08
+
+- Modbus TCP Server support in engine (flags for server/port/unit-id).
+- Global PIC to fix Linux ARM plugin builds.
+
+
 ## v0.1.20 - 2026-02-08
 
 - Plugin developer docs updated with cross-references and TODOs.
