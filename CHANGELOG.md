@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.20 - 2026-02-08
+
+- Plugin developer docs updated with cross-references and TODOs.
+- Architecture plan marked completed and links fixed.
+
+
 ## v0.1.18 - 2026-02-07
 
 - HMI auto-switches to Runtime mode when auto-connecting to a running engine.
