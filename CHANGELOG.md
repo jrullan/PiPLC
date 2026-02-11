@@ -1,8 +1,16 @@
-# Changelog
+﻿# Changelog
 
 All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
+
+## v0.1.25 - 2026-02-10
+
+- Remote context disconnect option (without stopping the engine), with route warning.
+- Explorer HAT Pro plugin RTTI fix by linking piplc-core.
+- Docker ARM64 build now deploys I/O provider plugins into the .deb.
+- HMI Properties panel no longer shows the internal ID field.
+
 
 ## v0.1.21 - 2026-02-08
 
