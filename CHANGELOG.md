@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.30 - 2026-02-14
+
+- Added an HMI resolution outline overlay to show target screen bounds while designing.
+- Added a Canvas Size dialog with common presets and custom dimensions.
+- Runtime mode now fits the HMI view to the target resolution while editor mode keeps a larger working area.
+
 ## v0.1.29 - 2026-02-14
 
 - Added HMI fullscreen kiosk mode (`F11`) that hides menus, toolbars, status bar, and dock panels.
