@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.29 - 2026-02-14
+
+- Added HMI fullscreen kiosk mode (`F11`) that hides menus, toolbars, status bar, and dock panels.
+- Added fullscreen exit controls (`F11` or `Escape`) and made `Alt+F4` leave fullscreen instead of closing.
+- Updated splash screen and About dialog to show consistent branding and author details.
+
 ## v0.1.28 - 2026-02-14
 
 - Added a startup splash screen with project branding and auto-version display.
