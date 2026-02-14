@@ -4,6 +4,14 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.26 - 2026-02-11
+
+- HMI can pin to its own context or follow the IDE context, with automatic fallback if a pinned context is removed.
+- Runtime status bar now shows scan count and average scan cycle time.
+- HMI exits runtime mode after program downloads that replace the monitored context.
+- Application startup/lifecycle was refactored with `ApplicationCore`, independent HMI window management, and persisted HMI window state.
+- Remote live-update subscriptions are now reference-counted so IDE and HMI can monitor the same context independently.
+
 ## v0.1.25 - 2026-02-10
 
 - Disconnect remote contexts without stopping the engine (with route warning).
