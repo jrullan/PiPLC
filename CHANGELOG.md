@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.31 - 2026-02-14
+
+- Added an HMI Preferences dialog (`Ctrl+,`) with canvas settings and default/apply controls.
+- Added configurable HMI grid color support, including alpha transparency.
+- Grid color is now persisted in project files.
+
 ## v0.1.30 - 2026-02-14
 
 - Added an HMI resolution outline overlay to show target screen bounds while designing.
