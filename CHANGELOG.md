@@ -4,6 +4,11 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.28 - 2026-02-14
+
+- Added a startup splash screen with project branding and auto-version display.
+- Fixed the app process not exiting after closing the main window, which could lock `PiPLC.exe` and block installer upgrades.
+
 ## v0.1.26 - 2026-02-11
 
 - HMI can pin to its own context or follow the IDE context, with automatic fallback if a pinned context is removed.
