@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.32 - 2026-02-16
+
+- HMI runtime mode now hides editor UI chrome for a cleaner operator-focused view.
+- Runtime now uses a minimal toolbar and resizes the window to the canvas resolution at 100% zoom.
+- Fullscreen exit now restores the correct UI layout for editor mode versus runtime mode.
+
 ## v0.1.31 - 2026-02-14
 
 - Added an HMI Preferences dialog (`Ctrl+,`) with canvas settings and default/apply controls.
