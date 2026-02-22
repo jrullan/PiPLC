@@ -4,6 +4,13 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.37 - 2026-02-22
+
+- Added Composite I/O Provider support so multiple providers can run together with address-claim conflict protection.
+- Added remote Add Provider workflow and updated instruction/memory docs for scheduled/date/interval features.
+- Improved interval snapshot/runtime diagnostics for remote contexts and fixed interval "Never triggered" reporting.
+- Reduced scan-time jitter with scheduler I/O cleanup, lock-free force checks, faster output image iteration, and cached analog mappings.
+
 ## v0.1.35 - 2026-02-22
 
 - Added date-based and interval instruction support, including icons and editor configuration.
