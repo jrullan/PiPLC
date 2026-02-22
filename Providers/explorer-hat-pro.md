@@ -221,7 +221,6 @@ This ensures motors and outputs are de-energized on any fault condition.
 
 ## See Also
 
-- [Memory Regions](../reference/memory-regions.md) — PLC address format reference
-- [Instruction Reference](../reference/instructions.md) — All 30 instruction types
-- [GPIO Architecture](../architecture/gpio.md) — I/O provider architecture
-- [Getting Started](../getting-started.md) — Installation and setup
+- [PiPLC Overview](../README.md) — Product capabilities and platform support
+- [Release Notes](../releases/release-notes/) — Public release history and changes
+- [Release Binaries](../releases/binaries/) — Downloadable installers for Windows and Raspberry Pi

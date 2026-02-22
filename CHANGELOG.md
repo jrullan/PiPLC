@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.35 - 2026-02-22
+
+- Added date-based and interval instruction support, including icons and editor configuration.
+- Added interval snapshot protocol support for remote contexts and improved watch-panel trigger reporting.
+- Fixed interval "Never triggered" behavior so trigger timestamps only appear after a real elapsed trigger.
+
 ## v0.1.32 - 2026-02-16
 
 - HMI runtime mode now hides editor UI chrome for a cleaner operator-focused view.
