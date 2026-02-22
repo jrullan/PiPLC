@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.38 - 2026-02-22
+
+- Improved I/O Config panel usability on small displays by making the panel content scrollable.
+- Ensured the Apply button remains reachable on compact screens such as Raspberry Pi touch displays.
+- Reduced empty space and clipping issues in provider configuration tabs when resizing.
+
 ## v0.1.37 - 2026-02-22
 
 - Added Composite I/O Provider support so multiple providers can run together with address-claim conflict protection.
