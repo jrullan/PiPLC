@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.39 - 2026-02-24
+
+- Added a new LLM ladder-language reference for generating valid `.plcproj` programs.
+- Added new starter examples: motor start/stop, motor seal-in, blinking LED start/stop, and traffic light with car detect.
+- Fixed HMI Numeric Display so configured foreground and background colors are applied correctly.
+
 ## v0.1.38 - 2026-02-22
 
 - Improved I/O Config panel usability on small displays by making the panel content scrollable.
