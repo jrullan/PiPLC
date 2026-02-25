@@ -4,6 +4,13 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.40 - 2026-02-24
+
+- Added copy, cut, and paste in the ladder editor for instructions, branches, and full rungs.
+- Added full undo/redo support for paste operations and improved action enable/disable behavior.
+- Fixed false E004 duplicate-output errors for addresses used in mutually exclusive branch paths.
+- Fixed power-flow rendering for decorated contacts (TON/TOF) inside branches.
+
 ## v0.1.39 - 2026-02-24
 
 - Added a new LLM ladder-language reference for generating valid `.plcproj` programs.
