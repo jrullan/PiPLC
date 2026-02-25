@@ -4,6 +4,13 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.42 - 2026-02-25
+
+- Added drag-and-drop rung reordering in the ladder editor.
+- Added visual drop indicators and drag previews for rung moves.
+- Added undo/redo support for rung reordering and suppressed no-op moves.
+- Restricted rung drag reordering while simulation mode is active.
+
 ## v0.1.41 - 2026-02-25
 
 - Added equation hints on math/compare/bitwise instruction boxes.
