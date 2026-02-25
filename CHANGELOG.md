@@ -4,6 +4,13 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.41 - 2026-02-25
+
+- Added equation hints on math/compare/bitwise instruction boxes.
+- Added symbol-name display on block instructions and symbol resolution in instruction config dialogs.
+- Fixed false E004 errors for series math accumulator patterns using the same destination.
+- Fixed symbol labeling and layout issues across coils/contacts, decorated contacts, timers, and counters.
+
 ## v0.1.40 - 2026-02-24
 
 - Added copy, cut, and paste in the ladder editor for instructions, branches, and full rungs.
