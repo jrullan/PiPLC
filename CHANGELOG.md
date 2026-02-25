@@ -4,6 +4,12 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.43 - 2026-02-25
+
+- Added `INTERVALMS` instruction for millisecond-precision periodic triggers.
+- Added `INTERVALMS` configuration UI with a 1 ms to 2,147,483,647 ms period range.
+- Added support for moving the instruction configuration dialog by dragging empty dialog space.
+
 ## v0.1.42 - 2026-02-25
 
 - Added drag-and-drop rung reordering in the ladder editor.
