@@ -4,6 +4,11 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.44 - 2026-03-02
+
+- Improved default `SCRIPT` instruction template to document both symbol-name and `sys.argv` usage styles.
+- Added `examples/script-examples.plcproj` with Celsius-to-Fahrenheit and addition script examples.
+
 ## v0.1.43 - 2026-02-25
 
 - Added `INTERVALMS` instruction for millisecond-precision periodic triggers.
