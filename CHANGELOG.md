@@ -4,6 +4,13 @@ All notable changes to PiPLC releases will be documented in this file.
 
 ## Unreleased
 
+## v0.1.45 - 2026-03-02
+
+- Added a full in-app Help system available from the Help menu.
+- Added a Help browser with topic tree, back/forward navigation, and in-page search.
+- Added 16 help topics for getting started, user workflows, references, shortcuts, and troubleshooting.
+- Added palette-aware theming and cross-linked help pages for easier navigation.
+
 ## v0.1.44 - 2026-03-02
 
 - Improved default `SCRIPT` instruction template to document both symbol-name and `sys.argv` usage styles.
